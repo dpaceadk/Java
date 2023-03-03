@@ -1,6 +1,6 @@
-public class Shape {
-    int width ;
-   int height ;
+//public class Shape {
+    //int width ;
+  // int height ;
    //default constructor
    // Shape(){
        // width = 10;
@@ -8,13 +8,13 @@ public class Shape {
 
     //}
 
-    Shape(int w, int h){  //parameterized constructor
-        width = w;
-        height = h;
+    //Shape(int w, int h){  //parameterized constructor
+       // width = w;
+       // height = h;
 
-    }
-    public void area(){
+    //}
+   // public void area(){
        // int area = width * height;
       // System.out.println("Area is:" +area);
-    }
-}
+   // }
+//}
