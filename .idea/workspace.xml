@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff2e7cbf-4746-4329-9a71-2e92b17bd08e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Dipesh.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dipesh.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/new proj/src/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new proj/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/new proj/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new proj/out/production/new proj/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/new proj/out/production/new proj/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new proj/out/production/new proj/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new proj/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/new proj/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new proj/src/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/new proj/src/Shape.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,12 +24,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
