@@ -6,7 +6,7 @@ public class Client {
     public static void main(String[] args)  {
         System.out.println("Client");
         try {
-            Socket socket = new Socket("172.25.24.73",12345);
+            Socket socket = new Socket("localhost",12345);
             //accept socket value msg//
             BufferedReader socketDataReader = new BufferedReader(new InputStreamReader(socket.getInputStream()));
             BufferedReader userinputReader = new BufferedReader(new InputStreamReader(System.in));//get input from user without using scanner//
